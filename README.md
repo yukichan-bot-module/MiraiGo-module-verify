@@ -4,6 +4,10 @@ ID: `com.aimerneige.verify`
 
 Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 
+## 鸣谢
+
+本项目的调用接口参考了 [kcunitary/nonebot-simplemusic](https://github.com/kcunitary/nonebot-simplemusic)
+
 ## 功能
 
 - 在新成员加入群时要求其输入验证码进行验证，验证失败或超时会被移出群聊。
